@@ -1,4 +1,13 @@
-## Hi there 👋
+# Welcome to DrawDream Inc 👋
+
+# Projects
+## Project: Zeus
+The Project: Zeus is the community website for Korean developers/engineers in Canada. There are two repositories for this project.
+- Project-Zeus-FE:
+  - This is the frontend repository that mainly uses ReactJs and Typescript.
+- Project-Zeus-BE:
+  - This is the backend repository that mainly uses Spring Boot and Java.
+
 
 <!--
 
