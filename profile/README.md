@@ -2,7 +2,7 @@
 
 # Projects
 ## Project: Zeus
-The Project: Zeus is the community website for Korean developers/engineers in Canada. There are two repositories for this project.
+The Project: Zeus is the community website for Korean developers/engineers in Canada. There are two repositories for this project. The display name is **Koanada**.
 - Project-Zeus-FE:
   - This is the frontend repository that mainly uses ReactJs and Typescript.
 - Project-Zeus-BE:
