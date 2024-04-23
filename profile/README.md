@@ -10,6 +10,22 @@ The Project: Zeus is the community website for Korean developers/engineers in Ca
 ## Project: Ares
 This is an internal web-based platform that will include many features. The archived name is 'ICarrier'.
 
+## Project: Goldie
+This project is a contract project.
+- goldie-original-front
+- goldie-original-back
+### Teams and permission to repositories
+```
+├── Team-Alpha
+│   ├── Admins
+│   └── Admin permission
+├── Team-Beta
+│   ├── Senior developers who lead the project
+│   └── Maintain permission
+└── Team-Charlie
+    ├── Clients
+    └── Write permission
+```
 <!--
 
 **Here are some ideas to get you started:**
